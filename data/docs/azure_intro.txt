@@ -1,0 +1,9 @@
+Microsoft Azure is a cloud computing platform and service created by Microsoft. It provides a wide range of cloud services, including computing, analytics, storage, and networking. Users can choose and configure these services to develop and scale new applications or run existing ones in the public cloud.
+Azure also offers integrated tools for DevOps, AI/ML, and serverless computing. It is widely used by enterprises for building scalable, secure, and resilient cloud-native applications.
+Popular use cases:
+- Hosting web applications
+- Building APIs
+- Data analytics and visualization
+- Machine learning model deployment
+- IoT solutions
+Azure’s global infrastructure spans multiple regions, ensuring high availability and redundancy. It also complies with numerous international standards for security and privacy.

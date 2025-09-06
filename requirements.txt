@@ -1,0 +1,11 @@
+langchain
+ollama
+faiss-cpu
+SpeechRecognition
+gTTS
+pydub
+python-dotenv
+langchain-community
+langchain_ollama
+pyaudio
+speech_recognition
